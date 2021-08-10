@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AGREGAR</title>
+    <script src="./addbooks.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+   <!--  HEADER  -->
+  <header>
+    <div class="header">
+      <h1>La Dimension del Libro 2</h1>
+    </div>
+
+  </header>
+
+    <div class="bar-navigation">
+        <ul>
+      <li><a class="active" href="./index.html" target="_self">Autores</a></li>
+      <li><a class="active" href="./Agregar.html" target="_self">Agregar Autor</a></li>
+        <li>
+            <form>
+            <input type="search" name="search" placeholder="Buscar libro..">
+            </form>
+        </li>
+        <li><a href="#about">About</a></li>
+        </ul>
+        </ul>
+    </div>
+
+  <!--  Cuerpo  -->
+
+    <div class="Inventary" id="inventary">
+        <h1>This Are the books:</h1>
+        <div id="libros-container">   
+        </div>
+        <button id="fetch-btn">Fetch Books</button>
+
+        <div id="libros-info-container">   
+        </div>
+    </div>
+
+
+   <div class="formulario" id="formulario" style="display:block;">
+        <h2>AGREGAR LIBRO</h2> 
+        <form id="create-libro-form-frm">
+            <label for="titulo">Titulo</label>
+            <input class="formulario" type="text" name="titulo">
+            <label for="genero">Genero</label>
+            <input class="formulario" type="text" name="genero">
+            <label for="anioPublicacion">Anio de Publicacion</label>
+            <input class="formulario" type="text" name="anioPublicacion">
+            <label for="Image">Imagen</label>
+            <input class="formulario" type="file" name="Image" id="imagencita">
+            <input type="submit" value="submit">
+            
+        </form>
+
+    </div>
+
+    <div class="oculto">
+    <a id="autorId">Numero</a>
+    </div>
+
+</body>
+</html>
