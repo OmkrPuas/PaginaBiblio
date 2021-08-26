@@ -6676,11 +6676,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Unicato\\Semestres\\1-2021\\Tecnologias_web\\Tareas\\Tarea_4\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
+      "projectUniqueName": "D:\\Unicato\\Semestres\\2-2021\\Ingenieria de software\\GitHub\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
       "projectName": "BibliotecaAPI",
-      "projectPath": "D:\\Unicato\\Semestres\\1-2021\\Tecnologias_web\\Tareas\\Tarea_4\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
+      "projectPath": "D:\\Unicato\\Semestres\\2-2021\\Ingenieria de software\\GitHub\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
       "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
-      "outputPath": "D:\\Unicato\\Semestres\\1-2021\\Tecnologias_web\\Tareas\\Tarea_4\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\obj\\",
+      "outputPath": "D:\\Unicato\\Semestres\\2-2021\\Ingenieria de software\\GitHub\\BibliotecaAPI\\BibliotecaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",

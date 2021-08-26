@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5XPLHnYwcF0DBpXT7ckOL4pTopL4NlMa0HE5Zau2xCfiVoi5AQ7kzpvJYKCjQ+bkcrTzLH86mZDZX8UZcS6hRQ==",
+  "dgSpecHash": "a37W7OB2WkIXpHPCvJuqkiyIObHVW207Kq0uPu0SF+yFTcwiixeFqOwwe8RKiPOnSpb2FimQ+qZhrdto/S1ivg==",
   "success": true,
-  "projectFilePath": "D:\\Unicato\\Semestres\\1-2021\\Tecnologias_web\\Tareas\\Tarea_4\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
+  "projectFilePath": "D:\\Unicato\\Semestres\\2-2021\\Ingenieria de software\\GitHub\\BibliotecaAPI\\BibliotecaAPI\\BibliotecaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LEGION\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\LEGION\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
